@@ -18,7 +18,7 @@ When training or evaluating AI agents, raw HTML is noisy and unstructured. This 
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/Agentic-Data-Scraper.git](https://github.com/your-username/Agentic-Data-Scraper.git)
+git clone [https://github.com/devvcodez/Agentic-Data-Scraper.git](https://github.com/devvcodez/Agentic-Data-Scraper.git)
 
 # Install required dependencies
 pip install requests beautifulsoup4
